@@ -1,0 +1,41 @@
+/* police */
+
+
+
+/* Global */
+
+:root {
+/* variables déclarées */
+}
+
+body {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+
+}
+
+
+/* Container à la BootStrap */
+.container {
+    width: 100%;
+    margin-inline: auto;
+    padding-inline: 2.4rem;
+}
+
+
+/* composants */
+
+
+/* header */
+
+
+/* hero */
+
+
+/* features */
+
+
+/* Footer */
+
+
